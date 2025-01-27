@@ -1,4 +1,4 @@
 # Try1
 This Repo is for trial
 <br>
-Author : Ashish Patidar
+Author : Ashish Patidar (Student)
